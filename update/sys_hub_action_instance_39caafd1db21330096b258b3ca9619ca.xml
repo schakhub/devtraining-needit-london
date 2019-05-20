@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="NeedIt Fulfillment">c4511432db81330096b258b3ca9619fc</flow>
+        <order>8.1</order>
+        <parent_ui_id>86e5e14e-1d7a-4f9c-9a0f-e89e50c86b3b</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 18:39:39</sys_created_on>
+        <sys_id>39caafd1db21330096b258b3ca9619ca</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_39caafd1db21330096b258b3ca9619ca</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2019-05-20 19:35:56</sys_updated_on>
+        <ui_id>906c6d0b-badc-4d98-8064-c1d726e9edd8</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=39caafd1db21330096b258b3ca9619ca"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>39caafd1db21330096b258b3ca9619ca</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 18:39:39</sys_created_on>
+        <sys_id>b9caafd1db21330096b258b3ca9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-20 18:39:39</sys_updated_on>
+        <value>x_58872_needit_needit</value>
+        <variable display_value="">1fd27c8cc3c632002841b63b12d3aeb9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>39caafd1db21330096b258b3ca9619ca</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 18:39:39</sys_created_on>
+        <sys_id>f1caafd1db21330096b258b3ca9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-20 18:39:39</sys_updated_on>
+        <value>u_requested_for={"display":"Adela Cervantsz","value":"0a826bf03710200044e0bfc8bcbe5d7a"}^u_when_needed=2019-05-31 17:00:00</value>
+        <variable display_value="">e7d270ccc3c632002841b63b12d3ae8b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=39caafd1db21330096b258b3ca9619ca"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>39caafd1db21330096b258b3ca9619ca</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 18:39:39</sys_created_on>
+        <sys_id>bdcaafd1db21330096b258b3ca9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-20 18:39:39</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>{{Created_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>39caafd1db21330096b258b3ca9619ca</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 18:39:39</sys_created_on>
+        <sys_id>f5caafd1db21330096b258b3ca9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-20 18:39:39</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>39caafd1db21330096b258b3ca9619ca</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 18:39:39</sys_created_on>
+        <sys_id>71caafd1db21330096b258b3ca9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-20 18:39:39</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
